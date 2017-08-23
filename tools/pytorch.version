@@ -1,0 +1,11 @@
+{
+     global:
+	 TH*;
+	 *THP*;
+	 *THCP*;
+         PyInit__C;
+	 PyInit__THNN;
+	 PyInit__THCUNN;
+     local:
+         *;
+ };
